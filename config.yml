@@ -1,5 +1,6 @@
 backend:
-  name: netlify_demo
+  name: github
+  repo: dagaa/netlify_demo
 
 media_folder: media_folder
 
